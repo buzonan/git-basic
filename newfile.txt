@@ -1,0 +1,9 @@
+Hello World 2.0
+Changed in github.com
+
+What is the difference between add, commit, and push?
+
+The add command refers to the file to be staged in preparation for the commit. 
+However, the commit command saves the files that are added/staged to be pushed 
+in the repository. Lastly, the push is the command that lets you transfer 
+your committed files to the main repository.
